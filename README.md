@@ -43,8 +43,9 @@ Perfect for quick data analysis and presentations.
 
 ## Screenshots
 
-![Dashboard Screenshot](/ScreenShots/1.png)
-![Dashboard Screenshot](/ScreenShots/2.png)
+<img width="1812" height="997" alt="image" src="https://github.com/user-attachments/assets/96a0d8a0-f2f9-4f69-9cf7-84b0019b163c" />
+![Uploading image.png…]()
+
 
 ---
 
@@ -59,3 +60,4 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run app.py
+
